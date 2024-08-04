@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+
+.snowman {
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 50%;
+    box-shadow: 30px 0 0 0 black,
+        15px 25px 0 0 orange,
+
+        1px 45px 0 -3px,
+        7px 50px 0 -3px,
+        15px 51px 0 -3px,
+        23px 50px 0 -3px,
+        29px 45px 0 -3px,
+
+        15px 110px 0 2px,
+        15px 140px 0 2px,
+        15px 170px 0 2px,
+
+
+        15px 30px 0 50px white,
+        15px 30px 10px 50px black,
+        15px 150px 0 80px white,
+        15px 150px 10px 80px black,
+        0 700px 0 500px #9e5e10;
+
+}
